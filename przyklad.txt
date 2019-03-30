@@ -1,0 +1,110 @@
+﻿
+FAKTURA VAT KOPIA
+Numer:                           000001
+Data sprzedaży:    2019-02-01
+Data wystawienia:  2019-02-01
+Sprzedawca:
+   Z.P.U. "Kartofelek" Jan Kartofelek
+               Rolnicza 1
+             01-223 Niemce
+   Z.P.U. "Kartofelek" J. Kartofelek
+ NIP 0012234123
+Nabywca:
+super ekstra sklep
+ul. Nikogo 46
+07-140 Siedlce
+ NIP 1010101010
+----------------------------------------
+Nazwa/Symbol towaru
+  Ilość    jm  Cena jed.  Wartość BRUTTO
+  Stawka (PTU) Podatek     Wartość NETTO
+----------------------------------------
+zapalki
+      1260, szt      0,38         478,80
+   5        (D)     22,80         456,00
+----------------------------------------
+Do zapłaty    478,80
+Słownie PLN:
+czterysta siedemdziesiąt osiem 80/100
+
+Stawka PTU  Wartość VAT    Wartość NETTO
+                          Wartość BRUTTO
+----------------------------------------
+   5   (D)        22,80           456,00
+                                  478,80
+----------------------------------------
+                  22,80           456,00
+                                  478,80
+
+
+
+........................................
+Imię, nazwisko, podpis osoby uprawnionej
+      do wystawienia faktury VAT
+
+
+........................................
+Imię, nazwisko, podpis osoby uprawnionej
+         do odbioru faktury VAT
+000001 #001      KIEROWNIK         18:02
+0000000000000000000000000000000000000000
+            CAW 1702074339
+             Transakcja nr:
+           000000000000000000
+
+
+
+
+FAKTURA VAT KOPIA
+Numer:                           000001
+Data sprzedaży:    2019-02-01
+Data wystawienia:  2019-02-01
+Sprzedawca:
+   Z.P.U. "Kartofelek" Jan Kartofelek
+               Rolnicza 1
+             01-223 Niemce
+   Z.P.U. "Kartofelek" J. Kartofelek
+ NIP 0012234123
+Nabywca:
+jeszcze lepszy sklep ktory ma super prod
+ukty
+ul. Nikogo 1
+00-140 Warszawa
+ NIP 1010101231
+----------------------------------------
+Nazwa/Symbol towaru
+  Ilość    jm  Cena jed.  Wartość BRUTTO
+  Stawka (PTU) Podatek     Wartość NETTO
+----------------------------------------
+czekolada
+      1260, szt      0,38         478,80
+   5        (D)     22,80         456,00
+----------------------------------------
+Do zapłaty    478,80
+Słownie PLN:
+czterysta siedemdziesiąt osiem 80/100
+
+Stawka PTU  Wartość VAT    Wartość NETTO
+                          Wartość BRUTTO
+----------------------------------------
+   5   (D)        22,80           456,00
+                                  478,80
+----------------------------------------
+                  22,80           456,00
+                                  478,80
+
+
+
+........................................
+Imię, nazwisko, podpis osoby uprawnionej
+      do wystawienia faktury VAT
+
+
+........................................
+Imię, nazwisko, podpis osoby uprawnionej
+         do odbioru faktury VAT
+000001 #001      KIEROWNIK         18:02
+0000000000000000000000000000000000000000
+            CAW 1702074339
+             Transakcja nr:
+           000000000000000000

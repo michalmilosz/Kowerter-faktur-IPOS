@@ -1,0 +1,5 @@
+KodFormularza;kodSystemowy;wersjaSchemy;WariantFormularza;CelZlozenia;DataWytworzeniaJPK;DataOd;DataDo;NazwaSystemu;NIP;PelnaNazwa;Email;LpSprzedazy;NrKontrahenta;NazwaKontrahenta;AdresKontrahenta;DowodSprzedazy;DataWystawienia;DataSprzedazy;K_10;K_11;K_12;K_13;K_14;K_15;K_16;K_17;K_18;K_19;K_20;K_21;K_22;K_23;K_24;K_25;K_26;K_27;K_28;K_29;K_30;K_31;K_32;K_33;K_34;K_35;K_36;K_37;K_38;K_39;LiczbaWierszySprzedazy;PodatekNalezny;LpZakupu;NrDostawcy;NazwaDostawcy;AdresDostawcy;DowodZakupu;DataZakupu;DataWplywu;K_43;K_44;K_45;K_46;K_47;K_48;K_49;K_50;LiczbaWierszyZakupow;PodatekNaliczony
+JPK_VAT;JPK_VAT (3);1-1;3;0;2018-07-11T09:33:42;2018-06-01;2018-06-30;Klient JPK 2.0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;0010024412;ZPU Kartofelek;moj-email@mail.com
+;;;;;;;;;;;;1;1010101010;super ekstra sklep;ul. Nikogo 46, 07-140 Siedlce;1;2019-02-01;2019-02-01;0;0;0;0;0;  456,00;22,80;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;
+;;;;;;;;;;;;2;1010101231;jeszcze lepszy sklep ktory ma super produkty;ul. Nikogo 1, 00-140 Warszawa;1;2019-02-01;2019-02-01;0;0;0;0;0;  456,00;22,80;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;
